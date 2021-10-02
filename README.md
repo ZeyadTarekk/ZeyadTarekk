@@ -77,7 +77,11 @@
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyadTa&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyadTa&show_icons=true&theme=radical&count_private=true)
+  
+  <br>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTa&count_private=true&theme=novatorem)
 
 </div>
 <!--
