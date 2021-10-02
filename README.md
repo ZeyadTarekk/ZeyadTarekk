@@ -81,7 +81,7 @@
   
   <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTa&count_private=true&theme=novatorem)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTa&count_private=true&theme=radical)
 
 </div>
 <!--
