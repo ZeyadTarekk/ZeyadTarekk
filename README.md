@@ -83,15 +83,15 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTa&count_private=true&theme=radical)
 
-![ZeyadTa github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadTa&theme=radical&include_all_commits=true&count_private=true)
+//![ZeyadTa github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadTa&theme=radical&include_all_commits=true&count_private=true)
   
 </div>
-<h1 align="center">
+<!-- <h1 align="center">
    <br/>
    
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</h1>
+</h1> -->
 <!--
 **ZeyadTa/ZeyadTa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
