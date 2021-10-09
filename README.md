@@ -9,8 +9,6 @@
 **"First, solve the problem. Then, write the code."**
 
 [![Repos Badge](https://badges.pufler.dev/repos/ZeyadTa)](https://badges.pufler.dev)
-
-
 <img src="https://komarev.com/ghpvc/?username=zeyadta&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadta" />
 
 </div>
