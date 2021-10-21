@@ -10,8 +10,7 @@
 
 
   <a href="https://badges.pufler.dev">
-   <!--  <img src="https://badges.pufler.dev/repos/ZeyadTa?&a=0"> -->
-    ![Repos Badge](https://badges.pufler.dev/repos/ZeyadTa)](https://badges.pufler.dev)
+    <img src="https://badges.pufler.dev/repos/ZeyadTa?&a=0"> 
     
   </a>
 <img src="https://komarev.com/ghpvc/?username=zeyadta&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadta" />
