@@ -28,22 +28,24 @@
 
 <a href="https://www.linkedin.com/in/zeyad-tarek/"><img align="left" alt="zeyad's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a>
 
-<a href="https://www.facebook.com/zeyad.tarek.104/">
+ <!-- <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
-</a>
+</a> -->
   
   <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" draggable="false" />
 </a>
   
 
-  
-
 <a href="https://www.instagram.com/zeyad__tarek/">
   <img align="left" alt="zeyad's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a>
   
-<a href="https://github.com/ZeyadTa">
+ <!-- <a href="https://github.com/ZeyadTa">
   <img align="left" alt="zeyad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+</a> -->
+  
+  <a href="https://github.com/ZeyadTa">
+  <img align="left" alt="zeyad's github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
 </a>
 
 <a href="mailto:zeyad.ta01@gmail.com">
