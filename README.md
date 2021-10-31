@@ -31,6 +31,13 @@
 <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
 </a>
+  
+  <a href="https://www.facebook.com/zeyad.tarek.104/">
+  <img align="left" alt="zeyad's Facebook" width="30px" src="![image](https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png)" draggable="false" />
+</a>
+  
+
+  
 
 <a href="https://www.instagram.com/zeyad__tarek/">
   <img align="left" alt="zeyad's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a>
