@@ -26,7 +26,7 @@
 
 <a href="https://twitter.com/Zeyad_Tarek0"><img align="left" alt="zeyad | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" /></a>
 
-<a href="https://www.linkedin.com/in/zeyad-tarek/"><img align="left" alt="zeyad's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/zeyad-tarek/"><img align="left" alt="zeyad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
  <!-- <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
