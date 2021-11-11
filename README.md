@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://twitter.com/Zeyad_Tarek0"><img align="left" alt="zeyad | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" /></a>
+<a href="https://twitter.com/Zeyad_Tarek0"><img align="left" alt="zeyad | Twitter" width="30px" src="https://user-images.githubusercontent.com/76125650/141382461-299f5651-de09-4549-a801-91d11f4fe15e.png" draggable="false" /></a>
 
 <a href="https://www.linkedin.com/in/zeyad-tarek/"><img align="left" alt="zeyad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
