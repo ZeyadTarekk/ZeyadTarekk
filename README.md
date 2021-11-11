@@ -38,7 +38,7 @@
   
 
 <a href="https://www.instagram.com/zeyad__tarek/">
-  <img align="left" alt="zeyad's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a>
+  <img align="left" alt="zeyad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
   
  <!-- <a href="https://github.com/ZeyadTa">
   <img align="left" alt="zeyad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
@@ -49,7 +49,7 @@
 </a>
 
 <a href="mailto:zeyad.ta01@gmail.com">
-  <img align="left" alt="zeyad's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" alt="zeyad's gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
 </a>
 
 <a href="https://codeforces.com/profile/Zeyad_Tarek">
