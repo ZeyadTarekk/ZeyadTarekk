@@ -8,17 +8,17 @@
 
 **"First, solve the problem. Then, write the code."**
 
-
  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/ZeyadTa?&a=0"> 
+    <img src="https://badges.pufler.dev/repos/ZeyadTarekk?&a=0"> 
     
   </a> -->
-  [![Repos Badge](https://badges.pufler.dev/repos/ZeyadTa)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=zeyadta&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadta" />
+
+[![Repos Badge](https://badges.pufler.dev/repos/ZeyadTarekk)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=ZeyadTarekk&label=Profile%20views&color=0e75b6&style=flat" alt="ZeyadTarekk" />
 
 </div>
 
-# Hey <img src="https://github.com/ZeyadTa/ZeyadTa/blob/main/wave.gif" width="40px">, I'm [Zeyad!](https://www.linkedin.com/in/zeyad-tarek/)
+# Hey <img src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/wave.gif" width="40px">, I'm [Zeyad!](https://www.linkedin.com/in/zeyad-tarek/)
 
 <br/>
 
@@ -31,20 +31,20 @@
  <!-- <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
 </a> -->
-  
+
   <a href="https://www.facebook.com/zeyad.tarek.104/">
   <img align="left" alt="zeyad's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" draggable="false" />
 </a>
-  
+
 
 <a href="https://www.instagram.com/zeyad__tarek/">
   <img align="left" alt="zeyad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
   
- <!-- <a href="https://github.com/ZeyadTa">
+ <!-- <a href="https://github.com/ZeyadTarekk">
   <img align="left" alt="zeyad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a> -->
   
-  <a href="https://github.com/ZeyadTa">
+  <a href="https://github.com/ZeyadTarekk">
   <img align="left" alt="zeyad's github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
 </a>
 
@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Zeyad_Tarek">
-  <img align="left" alt="zeyad's codeforces" width="40px" src="https://github.com/ZeyadTa/ZeyadTa/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="zeyad's codeforces" width="40px" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/codeforces.png" draggable="false" />
 </a>
 
 </div>
@@ -91,23 +91,23 @@
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyadTa&show_icons=true&theme=radical&count_private=true)
-  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyadTarekk&show_icons=true&theme=radical&count_private=true)
+
   <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTa&count_private=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTarekk&count_private=true&theme=radical)
 
-<!-- ![ZeyadTa github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadTa&theme=radical&include_all_commits=true&count_private=true) -->
-  
+<!-- ![ZeyadTarekk github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadTarekk&theme=radical&include_all_commits=true&count_private=true) -->
+
 </div>
 <!-- <h1 align="center">
    <br/>
-   
+
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </h1> -->
 <!--
-**ZeyadTa/ZeyadTa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZeyadTarekk/ZeyadTarekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
