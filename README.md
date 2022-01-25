@@ -12,8 +12,8 @@
     <img src="https://badges.pufler.dev/repos/ZeyadTarekk?&a=0"> 
     
   </a> -->
-
-[![Repos Badge](https://badges.pufler.dev/repos/ZeyadTarekk)](https://badges.pufler.dev)
+  
+<img src="https://badges.pufler.dev/repos/ZeyadTarekk" />
 <img src="https://komarev.com/ghpvc/?username=ZeyadTarekk&label=Profile%20views&color=0e75b6&style=flat" alt="ZeyadTarekk" />
 
 </div>
