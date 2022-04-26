@@ -90,7 +90,7 @@
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="Bootstrap" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/bootstrap.png"></code>
 <code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/asm.png"></code>
-<code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/java-2.jpg"></code>
+<code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/java.svg"></code>
 
 </div>
 
