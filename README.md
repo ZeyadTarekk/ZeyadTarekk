@@ -61,9 +61,10 @@
 <br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-
+- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship </a> 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-<!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
+- 🏃‍♂️ I am passionate about Back-End, Competitive Programming
+- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/"> "Head First Object-Oriented Analysis and Design" </a> by Brett McLaughlin, Gary Pollice, David West
 
 - 🚧 I'm currently focused on improving my web development skills
 
