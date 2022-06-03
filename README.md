@@ -74,14 +74,17 @@
 
 <div align="center">
 
-<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/react.svg"></code>
+<code><img height="40" width="40" title="Next.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/nextjs.svg"></code>
 <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/mysql.svg"></code>
-<code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/ssms.svg"></code>
+
 <br />
 <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -91,6 +94,7 @@
 <code><img height="40" title="Bootstrap" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/bootstrap.png"></code>
 <code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/asm.png"></code>
 <code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/java.svg"></code>
+<code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/ssms.svg"></code>
 
 </div>
 
