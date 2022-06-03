@@ -18,7 +18,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/wave.gif" width="40px">, I'm [Zeyad!](https://www.linkedin.com/in/zeyad-tarek/)
+# Hey <img src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/wave.gif" width="40px" height="40px">, I'm [Zeyad!](https://www.linkedin.com/in/zeyad-tarek/)
 
 <br/>
 
