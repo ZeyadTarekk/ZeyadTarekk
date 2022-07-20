@@ -38,11 +38,11 @@
 
 <!-- <a href="https://www.instagram.com/zeyad__tarek/">
   <img align="left" alt="zeyad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a> -->
-  
+
  <!-- <a href="https://github.com/ZeyadTarekk">
   <img align="left" alt="zeyad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a> -->
-  
+
   <a href="https://github.com/ZeyadTarekk">
   <img align="left" alt="zeyad's github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
 </a>
@@ -61,19 +61,19 @@
 <br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship </a> 
-- 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 🏃‍♂️ I am passionate about Back-End, Competitive Programming
-- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/head-first-object-oriented/0596008678/"> "Head First Object-Oriented Analysis and Design" </a> by Brett McLaughlin, Gary Pollice, David West
 
-- 🚧 I'm currently focused on improving my web development skills
+- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship</a>.
+- 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
+- 🏃‍♂️ I am passionate about Back-End, Competitive Programming.
+- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/"> "Clean Code: A Handbook of Agile Software Craftsmanship" </a> by Robert C. Martin.
 
-- 🍀 Ask me about anything, I will be happy to help
+- 🚧 I'm currently focusing on improving my backend skills, improving my databases, solving leetcode questions.
+
+- 🍀 Ask me about anything, I will be happy to help.
 
 # 🧰 My Skills
 
 <div align="center">
-
 
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
