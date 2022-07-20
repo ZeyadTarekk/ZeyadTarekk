@@ -67,7 +67,7 @@
 - 🏃‍♂️ I am passionate about Back-End, Competitive Programming.
 - 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/"> "Clean Code: A Handbook of Agile Software Craftsmanship" </a> by Robert C. Martin.
 
-- 🚧 I'm currently focusing on improving my backend skills, improving my databases, solving leetcode questions.
+- 🚧 I'm currently focusing on improving my backend skills, improving my databases knowledge, solving leetcode questions.
 
 - 🍀 Ask me about anything, I will be happy to help.
 
