@@ -83,6 +83,8 @@
 <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/express.svg"></code>
+<code><img height="40" title="PugJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/pug.svg"></code>
 <code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/mysql.svg"></code>
 <code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/linux.svg"></code>
 
