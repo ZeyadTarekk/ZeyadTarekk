@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Zeyad_Tarek">
-  <img align="left" alt="zeyad's codeforces" width="40px" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="zeyad's codeforces" width="40px" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/codeforces.png" draggable="false" />
 </a>
 
 </div>
