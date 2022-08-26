@@ -86,9 +86,11 @@
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/express.svg"></code>
-<code><img height="40" title="PugJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/pug.svg"></code>
+<code><img height="40" title="Jasmine Testing" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/jasmine.svg"></code>
 <code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mysql.svg"></code>
-<code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/linux.svg"></code>
+<code><img height="40" title="PostgreSQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/Postgresql.svg"></code>
+<code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ssms.svg"></code>
+
 
 <br />
 <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
@@ -100,8 +102,8 @@
 <code><img height="40" title="Tailwind CSS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/tailwindcss.svg"></code>
 <code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/asm.png"></code>
 <code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/java.svg"></code>
-<code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ssms.svg"></code>
-
+<code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/linux.svg"></code>
+<code><img height="40" title="PugJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/pug.svg"></code>
 </div>
 
 <br /><br />
