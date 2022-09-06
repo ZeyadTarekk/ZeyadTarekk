@@ -90,6 +90,7 @@
 <code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mysql.svg"></code>
 <code><img height="40" title="PostgreSQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/Postgresql.svg"></code>
 <code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ssms.svg"></code>
+<code><img height="40" width="40" title="MongoDB" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mongodb.svg"></code>
 
 
 <br />
