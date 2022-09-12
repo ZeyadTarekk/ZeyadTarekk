@@ -16,7 +16,7 @@
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/ZeyadTarekk)](https://badges.pufler.dev) -->
 <img src="https://komarev.com/ghpvc/?username=ZeyadTarekk&label=Profile%20views&color=0e75b6&style=flat" alt="ZeyadTarekk" />
 
-[![Most Active GitHub User Rank](https://en7wk5xej1s55cw.m.pipedream.net/)](https://commits.top/egypt.html)
+<!-- [![Most Active GitHub User Rank](https://en7wk5xej1s55cw.m.pipedream.net/)](https://commits.top/egypt.html) -->
 
 </div>
 
