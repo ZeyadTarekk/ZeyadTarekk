@@ -67,7 +67,7 @@
 - ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship</a>.
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
 - 🏃‍♂️ I am passionate about Back-End, Competitive Programming.
-- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/high-performance-mysql/9781449332471/"> "High Performance MySQL, 3rd Edition" </a> by Baron Schwartz, Peter Zaitsev, Vadim Tkachenko.
+- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/head-first-design/9781492077992/"> "Head First Design Patterns, 2nd Edition" </a> by Eric Freeman, Elisabeth Robson.
 
 - 🚧 I'm currently focusing on improving my backend skills, improving my databases knowledge, solving leetcode questions.
 
