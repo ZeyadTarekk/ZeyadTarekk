@@ -105,8 +105,10 @@
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Java" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/java.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/asm.png"></code>
 ## Others
+
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/react.svg"></code>
@@ -115,11 +117,9 @@
 <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="Bootstrap" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/bootstrap.png"></code>
 <code><img height="40" title="Tailwind CSS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/tailwindcss.svg"></code>
-<code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/asm.png"></code>
 <code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/linux.svg"></code>
 <code><img height="40" title="PugJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/pug.svg"></code>
 <code><img height="40" title="Jasmine Testing" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/jasmine.svg"></code>
-<!-- <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
 
 </div>
 
