@@ -77,33 +77,41 @@
 
 <div align="center">
 
-<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/react.svg"></code>
-<code><img height="40" width="40" title="Next.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/nextjs.svg"></code>
-<code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/express.svg"></code>
-<code><img height="40" title="Ruby" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ruby.svg"></code>
-<code><img height="40" title="Rails" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/rails.svg"></code>
-<code><img height="40" title="Docker" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/docker.svg"></code>
-<code><img height="40" title="Redis" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/redis.svg"></code>
+## Databases
+
 <code><img height="40" title="MySQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mysql.svg"></code>
 <code><img height="40" title="PostgreSQL" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/Postgresql.svg"></code>
 <code><img height="40" width="40" title="SSMS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ssms.svg"></code>
 <code><img height="40" width="40" title="MongoDB" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mongodb.svg"></code>
 
+## Backend Tools
 
-<br />
+<code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/express.svg"></code>
+<code><img height="40" title="Rails" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/rails.svg"></code>
+<code><img height="40" title="Docker" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/docker.svg"></code>
+<code><img height="40" title="Redis" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/redis.svg"></code>
 <code><img height="40" title="Sequelize" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/sequelize.svg"></code>
 <code><img height="40" title="Mongoose" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/mongoose.png"></code>
-<code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+
+## Languages
+
+<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" title="TypeScript" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/typescript.svg"></code>
+<code><img height="40" title="Ruby" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/ruby.svg"></code>
 <code><img height="40" title="GoLang" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/go.svg"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+## Others
+<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/react.svg"></code>
+<code><img height="40" width="40" title="Next.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/nextjs.svg"></code>
+<code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="Bootstrap" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/bootstrap.png"></code>
 <code><img height="40" title="Tailwind CSS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/tailwindcss.svg"></code>
 <code><img height="40" title="x86 Assembly" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/asm.png"></code>
@@ -111,6 +119,8 @@
 <code><img height="40" title="Linux" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/linux.svg"></code>
 <code><img height="40" title="PugJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/pug.svg"></code>
 <code><img height="40" title="Jasmine Testing" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/jasmine.svg"></code>
+<!-- <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
+
 </div>
 
 <br /><br />
