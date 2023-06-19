@@ -64,7 +64,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship</a>.
+- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @MLH Fellowship</a> Summer 2022.
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
 - 🏃‍♂️ I am passionate about Back-End, Competitive Programming.
 - 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/head-first-design/9781492077992/"> "Head First Design Patterns, 2nd Edition" </a> by Eric Freeman, Elisabeth Robson.
