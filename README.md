@@ -88,6 +88,7 @@
 
 <code><img height="40" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" title="ExpressJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/express.svg"></code>
+<code><img height="40" title="NestJS" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/nestjs.svg"></code>
 <code><img height="40" title="Rails" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/rails.svg"></code>
 <code><img height="40" title="Docker" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/docker.svg"></code>
 <code><img height="40" title="Redis" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/redis.svg"></code>
