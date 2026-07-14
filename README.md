@@ -4,7 +4,7 @@
 
 # Hi, I'm Zeyad Tarek 👋
 
-### Backend Engineer | Python • Java • Spring Boot
+### Backend Engineer | Python • Go • FastAPI • Spring Boot
 
 > *"First, solve the problem. Then, write the code."*
 
@@ -104,9 +104,9 @@ Outside of work, I enjoy solving LeetCode problems, exploring distributed system
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ZeyadTarekk&show_icons=true&count_private=true&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=ZeyadTarekk&label=Profile%20views&color=0e75b6&style=flat" alt="ZeyadTarekk" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadTarekk&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZeyadTarekk&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=ZeyadTarekk&rank_icon=percentile&show_icons=true&include_all_commits=true)
 
 </div>
 
